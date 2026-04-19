@@ -1,5 +1,3 @@
-:::writing{variant=“standard” id=“83921”}
-
 🧱 LEGO Product Admin Tool
 
 An external admin panel for searching LEGO parts and creating products for an online store.
