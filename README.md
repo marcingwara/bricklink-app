@@ -176,7 +176,7 @@ Frontend
 
 👨‍💻 Author
 
-Custom tool for managing LEGO products in an online store.
+Marcin Gwara
 
 ⸻
 
